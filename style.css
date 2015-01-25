@@ -29,22 +29,23 @@ p {
 }
 .navbar-nav > li > a{
 	padding:10px 30px;
-	color: #1abc9c;
+	color: #F22613;
 	line-height: 69px;
 }
 .navbar-toggle .icon-bar {
-	background: #1abc9c;
+	background: #F22613;
 }
 .nav > li > a:hover {
-	background: #1abc9c;
+	background: #F22613;
 	color: #fff;
 }
 .navbar-brand {
 	font-size: 36px;
 	line-height: 50px;
+	color:#D91E18;
 }
 .navbar-nav > li.active {
-	background: #1abc9c;
+	background: #F22613;
 }
 .navbar-nav > li.active a {
 	color: #fff !important;
@@ -56,7 +57,7 @@ font-family: fontAwesome;
 font-size: 2em;
 background: #fff;
 padding: 10px;
-color: #1abc9c;
+color: #F22613;
 position: absolute;
 z-index: 999;
 top: 38%;
@@ -67,7 +68,7 @@ font-family: fontAwesome;
 font-size: 2em;
 background: #fff;
 padding: 10px;
-color: #1abc9c;
+color: #F22613;
 position: absolute;
 right: 0;
 top: 38%;
@@ -87,7 +88,7 @@ top: 38%;
 	border: 4px solid #e6e9ec;
 	margin: 20px 0;
 	line-height: 90px;
-	color: #00DBC1;
+	color: #F22613;
 	font-size: 24px;
 	-webkit-transition:all .5s;
 	-moz-transition:all .5s;
@@ -95,7 +96,7 @@ top: 38%;
 	transition:all .5s;
 }
 #service a.service_a:hover {
-	background: #00DBC1;
+	background: #F22613;
 	color: #fff;
 }
 #service h4.service_h4 {
@@ -190,13 +191,13 @@ margin-bottom: 30px;
 #latest_work h3 span {
 	display: inline-block;
 padding-bottom: 12px;
-border-bottom: 1px solid #1abc9c;
+border-bottom: 1px solid #F22613;
 margin-bottom: -1px;
 }
 
 .about_title {
 	background: #029E85;
-	border-bottom: 2px solid #00DBC1;
+	border-bottom: 2px solid #F22613;
 }
 .gallery_title h1 {
 	text-align: center;
@@ -292,7 +293,7 @@ line-height: 25px;
 	border-radius: 30px;
 	line-height: 41px;
 	text-align: center;
-	color: #1abc9c;
+	color: #F22613;
 	margin: 5px;
 	-webkit-transition:all .5s;
 	-moz-transition:all .5s;
@@ -300,7 +301,7 @@ line-height: 25px;
 	transition:all .5s;
 }
 .team_social a i:hover {
-	background: #1abc9c;
+	background: #F22613;
 	color: #fff;
 }
 /*TESTIMONIAL*/
@@ -363,8 +364,8 @@ line-height: 25px;
 	border-left: 1px s
 	border-left: 1px solid #ebebeb;olid #ebebeb;
 	border-right: 1px solid #ebebeb;
-	border-top: 1px solid #1abc9c;
-	color: #1abc9c;
+	border-top: 1px solid #F22613;
+	color: #F22613;
 }
 #why_us .tab-content > .tab-pane {
 	border-left: 1px solid #ebebeb;
@@ -386,7 +387,7 @@ line-height: 25px;
 	background: #fff;
 }
 #why_us .panel-default > .panel-heading + .panel-collapse .panel-body {
-	border-top: 1px solid #1abc9c;
+	border-top: 1px solid #F22613;
 }
 /*CONTACT*/
 #contact {
@@ -405,11 +406,11 @@ line-height: 25px;
 	height: 180px;
 }
 #contact .form-control {
-	color: #1abc9c;
+	color: #F22613;
 	border-radius: 0px;
 }
 #contact .btn {
-background: #1abc9c;
+background: #F22613;
 border-radius: 0px;
 color: #fff;
 border: none;
@@ -441,7 +442,7 @@ font-size: 20px;
 
 /*FOOTER*/
 .social_icon {
-	color: #1abc9c;
+	color: #F22613;
 }
 #footer {
 	padding:20px 0;
